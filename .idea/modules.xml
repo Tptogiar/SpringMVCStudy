@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringMVCStudy.iml" filepath="$PROJECT_DIR$/SpringMVCStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01_DefaultConfigSpringMVC/_01_DefaultConfigSpringMVC.iml" filepath="$PROJECT_DIR$/_01_DefaultConfigSpringMVC/_01_DefaultConfigSpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02_ExtraConfigSpringMVC/_02_ExtraConfigSpringMVC.iml" filepath="$PROJECT_DIR$/_02_ExtraConfigSpringMVC/_02_ExtraConfigSpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_RequestMapping/_03_RequestMapping.iml" filepath="$PROJECT_DIR$/_03_RequestMapping/_03_RequestMapping.iml" />
     </modules>
   </component>
 </project>
