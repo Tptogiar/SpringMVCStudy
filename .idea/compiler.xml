@@ -2,14 +2,15 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_03_RequestMapping" />
-        <module name="_02_ExtraConfigSpringMVC" />
-        <module name="SpringMVCStudy" />
         <module name="_01_DefaultConfigSpringMVC" />
+        <module name="SpringMVCStudy" />
+        <module name="_02_ExtraConfigSpringMVC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
