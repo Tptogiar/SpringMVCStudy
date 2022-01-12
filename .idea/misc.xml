@@ -3,6 +3,8 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/_02_ExtraConfigSpringMVC" />
     <file type="web" url="file://$PROJECT_DIR$/_03_RequestMapping" />
+    <file type="web" url="file://$PROJECT_DIR$/_04_ShareScopeData" />
+    <file type="web" url="file://$PROJECT_DIR$/_05_InternalResourceView" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -11,6 +13,7 @@
         <option value="$PROJECT_DIR$/_01_DefaultConfigSpringMVC/pom.xml" />
         <option value="$PROJECT_DIR$/_02_ExtraConfigSpringMVC/pom.xml" />
         <option value="$PROJECT_DIR$/_03_RequestMapping/pom.xml" />
+        <option value="$PROJECT_DIR$/_04_ShareScopeData/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_05_InternalResourceView:war">
+    <output-path>$PROJECT_DIR$/_05_InternalResourceView/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>_05_InternalResourceView</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_05_InternalResourceView-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="_05_InternalResourceView:war exploded" />
+    </root>
+  </artifact>
+</component>

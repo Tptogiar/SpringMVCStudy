@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_04_ShareScopeData:war">
+    <output-path>$PROJECT_DIR$/_04_ShareScopeData/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>_04_ShareScopeData</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_04_ShareScopeData-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="_04_ShareScopeData:war exploded" />
+    </root>
+  </artifact>
+</component>

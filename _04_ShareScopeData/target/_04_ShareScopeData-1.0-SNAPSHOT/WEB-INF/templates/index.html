@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Index</h1>
+<a th:href="@{/testServletAPI}">testServletAPI</a><br>
+<a th:href="@{/testMap}" >testMap</a><br>
+<a th:href="@{/testModelMap}" >testModelMap</a><br>
+<a th:href="@{/testModel}" >testModel</a><br>
+<a th:href="@{/testModelAndView}">testModelAndView</a><br>
+<h1 th:text="${testRequestScope}">defaultText</h1><br>
+<br><br>
+<a th:href="@{/testSession}">testSession</a>
+<h1 th:text="${session.testSessionScope}"></h1>
+<br><br>
+<a th:href="@{/testApplication}">testApplication</a>
+<h1 th:text="${application.testApplicationScope}"></h1>
+<br><br>
+<a th:href="@{/view/testInternalResourceView}">testInternalResourceView</a><br>
+<a th:href="@{/view/testRedirectView}">testRedirectView</a>
+</body>
+</html>

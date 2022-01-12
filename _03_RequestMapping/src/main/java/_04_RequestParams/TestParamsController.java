@@ -73,18 +73,18 @@ public class TestParamsController {
         return "index";
     }
 
-    @GetMapping("/bean")
+    @RequestMapping("/bean")
     public String testBean(
             @RequestParam(value = "username",required = false,defaultValue = "root")String name,
             @RequestHeader(value = "host")String host,
-            @CookieValue("JSESSIONID")String sessionId,
-            User user
+            User user,
+            HttpServletRequest req
 
     ){
         System.out.println("username: "+name);
         System.out.println("host:  "+host);
-        System.out.println("JSESSION:  "+sessionId);
         System.out.println(user);
+        System.out.println(req.getCharacterEncoding());
         return "index";
     }
 }

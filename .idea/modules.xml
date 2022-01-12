@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/_01_DefaultConfigSpringMVC/_01_DefaultConfigSpringMVC.iml" filepath="$PROJECT_DIR$/_01_DefaultConfigSpringMVC/_01_DefaultConfigSpringMVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_ExtraConfigSpringMVC/_02_ExtraConfigSpringMVC.iml" filepath="$PROJECT_DIR$/_02_ExtraConfigSpringMVC/_02_ExtraConfigSpringMVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/_03_RequestMapping/_03_RequestMapping.iml" filepath="$PROJECT_DIR$/_03_RequestMapping/_03_RequestMapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_ShareScopeData/_04_ShareScopeData.iml" filepath="$PROJECT_DIR$/_04_ShareScopeData/_04_ShareScopeData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05_InternalResourceView/_05_InternalResourceView.iml" filepath="$PROJECT_DIR$/_05_InternalResourceView/_05_InternalResourceView.iml" />
     </modules>
   </component>
 </project>

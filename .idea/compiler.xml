@@ -7,9 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="_03_RequestMapping" />
+        <module name="_04_ShareScopeData" />
+        <module name="_05_InternalResourceView" />
         <module name="_01_DefaultConfigSpringMVC" />
-        <module name="SpringMVCStudy" />
+        <module name="_03_RequestMapping" />
         <module name="_02_ExtraConfigSpringMVC" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,8 @@
       <module name="_01_DefaultConfigSpringMVC" target="1.5" />
       <module name="_02_ExtraConfigSpringMVC" target="1.5" />
       <module name="_03_RequestMapping" target="1.5" />
+      <module name="_04_ShareScopeData" target="1.5" />
+      <module name="_05_InternalResourceView" target="1.5" />
       <module name="SpringMVCStudy" target="1.5" />
     </bytecodeTargetLevel>
   </component>
