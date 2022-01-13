@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/_03_RequestMapping/_03_RequestMapping.iml" filepath="$PROJECT_DIR$/_03_RequestMapping/_03_RequestMapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/_04_ShareScopeData/_04_ShareScopeData.iml" filepath="$PROJECT_DIR$/_04_ShareScopeData/_04_ShareScopeData.iml" />
       <module fileurl="file://$PROJECT_DIR$/_05_InternalResourceView/_05_InternalResourceView.iml" filepath="$PROJECT_DIR$/_05_InternalResourceView/_05_InternalResourceView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_06_RESTfulDemo/_06_RESTfulDemo.iml" filepath="$PROJECT_DIR$/_06_RESTfulDemo/_06_RESTfulDemo.iml" />
     </modules>
   </component>
 </project>

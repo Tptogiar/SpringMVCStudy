@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="www.thymeleaf.org">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        p{
+            font-size: 100px;
+
+        }
+    </style>
+</head>
+<body>
+Index<br>
+<a th:href="@{/index}">index</a><br>
+<a th:href="@{/employee}">get employee</a><br>
+<a th:href="@{employee/1}">get employee 1</a><br>
+<form method="post" th:action="@{/employee/2}">
+    <input type="hidden" value="delete" name="_method">
+    <button type="submit">delete submit</button>
+</form>
+<br><br>
+<form method="post" th:action="@{/employee}">
+    <input type="hidden" value="put" name="_method">
+    <input name="name">
+    <input name="id">
+    <button type="submit">update submit</button>
+</form>
+</body>
+</html>
