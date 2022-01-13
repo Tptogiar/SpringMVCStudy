@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="www.thymeleaf.org">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        p{
+            font-size: 100px;
+
+        }
+    </style>
+</head>
+<body>
+Index
+<br><br><br>
+<form th:action="@{/fileUpload}" method="post" enctype="multipart/form-data">
+    <input type="file" name="testFile">
+    <input type="submit"/>
+</form>
+<br><br>
+<form th:action="@{/fileUploads}" method="post" enctype="multipart/form-data">
+    <input type="file" name="testFile1">
+    <input type="file" name="testFile2">
+    <input type="submit"/>
+</form>
+<br><br>
+<a th:href="@{/fileDownload}">fileDownload</a>
+</body>
+</html>

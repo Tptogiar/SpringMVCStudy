@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/_04_ShareScopeData/_04_ShareScopeData.iml" filepath="$PROJECT_DIR$/_04_ShareScopeData/_04_ShareScopeData.iml" />
       <module fileurl="file://$PROJECT_DIR$/_05_InternalResourceView/_05_InternalResourceView.iml" filepath="$PROJECT_DIR$/_05_InternalResourceView/_05_InternalResourceView.iml" />
       <module fileurl="file://$PROJECT_DIR$/_06_RESTfulDemo/_06_RESTfulDemo.iml" filepath="$PROJECT_DIR$/_06_RESTfulDemo/_06_RESTfulDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07_HttpMessageConverter/_07_HttpMessageConverter.iml" filepath="$PROJECT_DIR$/_07_HttpMessageConverter/_07_HttpMessageConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08_FileUploadAndDownload/_08_FileUploadAndDownload.iml" filepath="$PROJECT_DIR$/_08_FileUploadAndDownload/_08_FileUploadAndDownload.iml" />
     </modules>
   </component>
 </project>

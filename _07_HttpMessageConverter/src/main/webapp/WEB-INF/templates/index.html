@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="www.thymeleaf.org">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        p{
+            font-size: 100px;
+
+        }
+    </style>
+</head>
+<body>
+Index
+<br><br><br>
+<form method="post" th:action="@{/testRequestBody}">
+    <input type="hidden" value="post" name="_method">
+    <input name="name">
+    <input name="id">
+    <button type="submit">update submit</button>
+</form>
+</body>
+</html>

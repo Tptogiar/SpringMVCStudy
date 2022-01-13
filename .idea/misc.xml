@@ -6,6 +6,8 @@
     <file type="web" url="file://$PROJECT_DIR$/_04_ShareScopeData" />
     <file type="web" url="file://$PROJECT_DIR$/_05_InternalResourceView" />
     <file type="web" url="file://$PROJECT_DIR$/_06_RESTfulDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/_07_HttpMessageConverter" />
+    <file type="web" url="file://$PROJECT_DIR$/_08_FileUploadAndDownload" />
     <file type="web" url="file://$PROJECT_DIR$/webapp" />
   </component>
   <component name="MavenProjectsManager">
@@ -17,6 +19,8 @@
         <option value="$PROJECT_DIR$/_03_RequestMapping/pom.xml" />
         <option value="$PROJECT_DIR$/_04_ShareScopeData/pom.xml" />
         <option value="$PROJECT_DIR$/_06_RESTfulDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/_07_HttpMessageConverter/pom.xml" />
+        <option value="$PROJECT_DIR$/_08_FileUploadAndDownload/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

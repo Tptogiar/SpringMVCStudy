@@ -11,9 +11,5 @@
     <modules>
         <module>_05_InternalResourceView</module>
         <module>_06_RESTfulDemo</module>
-        <module>untitled</module>
-        <module>webapp</module>
-        <module>quickstart</module>
-        <module>_06_RESTfulDemo</module>
     </modules>
 </project>

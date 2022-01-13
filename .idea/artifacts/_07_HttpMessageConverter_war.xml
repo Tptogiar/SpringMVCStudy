@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_07_HttpMessageConverter:war">
+    <output-path>$PROJECT_DIR$/_07_HttpMessageConverter/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>_07_HttpMessageConverter</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_07_HttpMessageConverter-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="_07_HttpMessageConverter:war exploded" />
+    </root>
+  </artifact>
+</component>
