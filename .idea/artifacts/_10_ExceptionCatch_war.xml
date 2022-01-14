@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_10_ExceptionCatch:war">
+    <output-path>$PROJECT_DIR$/_10_ExceptionCatch/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>_10_ExceptionCatch</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_10_ExceptionCatch-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="_10_ExceptionCatch:war exploded" />
+    </root>
+  </artifact>
+</component>

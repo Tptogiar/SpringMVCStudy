@@ -16,7 +16,9 @@
         <module name="untitled" />
         <module name="_03_RequestMapping" />
         <module name="_02_ExtraConfigSpringMVC" />
+        <module name="_10_ExceptionCatch" />
         <module name="_08_FileUploadAndDownload" />
+        <module name="_11_AnnotationConfigSpringMVC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +31,8 @@
       <module name="_07_HttpMessageConverter" target="1.5" />
       <module name="_08_FileUploadAndDownload" target="7" />
       <module name="_09_Interceptor" target="1.5" />
+      <module name="_10_ExceptionCatch" target="1.5" />
+      <module name="_11_AnnotationConfigSpringMVC" target="6" />
       <module name="quickstart" target="1.5" />
       <module name="SpringMVCStudy" target="1.5" />
       <module name="untitled" target="1.8" />

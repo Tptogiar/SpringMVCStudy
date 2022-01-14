@@ -9,6 +9,8 @@
     <file type="web" url="file://$PROJECT_DIR$/_07_HttpMessageConverter" />
     <file type="web" url="file://$PROJECT_DIR$/_08_FileUploadAndDownload" />
     <file type="web" url="file://$PROJECT_DIR$/_09_Interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/_10_ExceptionCatch" />
+    <file type="web" url="file://$PROJECT_DIR$/_11_AnnotationConfigSpringMVC" />
     <file type="web" url="file://$PROJECT_DIR$/webapp" />
   </component>
   <component name="MavenProjectsManager">
@@ -23,6 +25,8 @@
         <option value="$PROJECT_DIR$/_07_HttpMessageConverter/pom.xml" />
         <option value="$PROJECT_DIR$/_08_FileUploadAndDownload/pom.xml" />
         <option value="$PROJECT_DIR$/_09_Interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/_10_ExceptionCatch/pom.xml" />
+        <option value="$PROJECT_DIR$/_11_AnnotationConfigSpringMVC/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -36,7 +36,7 @@
     <mvc:view-controller path="/" view-name="index"/>
     <mvc:view-controller path="/index" view-name="index"/>
 
-
+<!--开放对静态资源的访问-->
     <mvc:default-servlet-handler />
 
     <!--开启mvc的注解驱动-->

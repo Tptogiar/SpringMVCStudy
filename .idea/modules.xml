@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/_08_FileUploadAndDownload/_08_FileUploadAndDownload.iml" filepath="$PROJECT_DIR$/_08_FileUploadAndDownload/_08_FileUploadAndDownload.iml" />
       <module fileurl="file://$PROJECT_DIR$/_09_Interceptor/_09_Interceptor.iml" filepath="$PROJECT_DIR$/_09_Interceptor/_09_Interceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/_10_ExceptionCatch/_10_ExceptionCatch.iml" filepath="$PROJECT_DIR$/_10_ExceptionCatch/_10_ExceptionCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_11_AnnotationConfigSpringMVC/_11_AnnotationConfigSpringMVC.iml" filepath="$PROJECT_DIR$/_11_AnnotationConfigSpringMVC/_11_AnnotationConfigSpringMVC.iml" />
     </modules>
   </component>
 </project>

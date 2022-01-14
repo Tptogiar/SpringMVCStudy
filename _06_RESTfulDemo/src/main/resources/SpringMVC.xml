@@ -31,7 +31,7 @@
         </property>
     </bean>
 
-
+<!--开放对静态资源的访问-->
     <mvc:default-servlet-handler/>
 
     <mvc:view-controller path="/" view-name="index"/>
