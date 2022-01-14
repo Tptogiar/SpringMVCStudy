@@ -9,13 +9,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="_06_RESTfulDemo" />
         <module name="_07_HttpMessageConverter" />
+        <module name="_09_Interceptor" />
         <module name="_04_ShareScopeData" />
         <module name="_05_InternalResourceView" />
         <module name="_01_DefaultConfigSpringMVC" />
-        <module name="_08_FileUploadAndDownload" />
+        <module name="untitled" />
         <module name="_03_RequestMapping" />
         <module name="_02_ExtraConfigSpringMVC" />
-        <module name="untitled" />
+        <module name="_08_FileUploadAndDownload" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +28,7 @@
       <module name="_06_RESTfulDemo" target="1.5" />
       <module name="_07_HttpMessageConverter" target="1.5" />
       <module name="_08_FileUploadAndDownload" target="7" />
+      <module name="_09_Interceptor" target="1.5" />
       <module name="quickstart" target="1.5" />
       <module name="SpringMVCStudy" target="1.5" />
       <module name="untitled" target="1.8" />

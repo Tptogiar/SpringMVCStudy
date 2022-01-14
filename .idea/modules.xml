@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/_06_RESTfulDemo/_06_RESTfulDemo.iml" filepath="$PROJECT_DIR$/_06_RESTfulDemo/_06_RESTfulDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_07_HttpMessageConverter/_07_HttpMessageConverter.iml" filepath="$PROJECT_DIR$/_07_HttpMessageConverter/_07_HttpMessageConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/_08_FileUploadAndDownload/_08_FileUploadAndDownload.iml" filepath="$PROJECT_DIR$/_08_FileUploadAndDownload/_08_FileUploadAndDownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_09_Interceptor/_09_Interceptor.iml" filepath="$PROJECT_DIR$/_09_Interceptor/_09_Interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10_ExceptionCatch/_10_ExceptionCatch.iml" filepath="$PROJECT_DIR$/_10_ExceptionCatch/_10_ExceptionCatch.iml" />
     </modules>
   </component>
 </project>
